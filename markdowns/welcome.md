@@ -21,3 +21,26 @@ Here is a simple *example* of a code **snippet** insertion into a _page_ (also p
 ```javascript runnable
 console.log('Hello World!');
 ```
+
+## This seems pretty cool
+But I wish there was more of a WYSIWYG style editor. I need to learn Markdown, apparently.
+
+**Sample quiz inside a pull-down.**
+
+::: Open for a quiz
+
+Let's see if it worked.
+
+?[What is the answer to Life, the Universe and Everything?]
+-[ ] There is no answer to that!
+-[ ] Sleep and eat
+-[x] Easy, this is 42
+-[ ] Peace & Love
+
+:::
+
+```javascript runnable
+let x = 34;
+let y = 5;
+console.log(x, y);
+```
